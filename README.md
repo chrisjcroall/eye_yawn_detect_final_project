@@ -13,6 +13,10 @@ The code defines functions to calculate the eye aspect ratio (eye_aspect_ratio),
 
 The main part of the code reads video frames from a webcam or video file, converts them to grayscale, and displays them in a resizable window. It then uses the face detector to detect faces in the frame. For each detected face, it applies the eye and yawning detection functions, calculates various metrics, and updates the display accordingly. It also plays sound alerts and keeps track of detection counts.
 
+
+https://github.com/chrisjcroall/eye_yawn_detect_final_project/assets/126267745/ce6936ca-5817-4ba5-9357-6bc168a5990b
+
+
 The code continues this process until the user exits by pressing 'q'. Finally, it releases the video capture and closes the windows.
 
 In conclusion, this code demonstrates a basic implementation of a fatigue detection system using computer vision techniques.
