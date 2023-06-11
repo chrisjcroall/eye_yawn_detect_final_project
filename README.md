@@ -1,6 +1,8 @@
 # eye_yawn_detect_final_project
 Implementing an eye-yawn detection system using machine learning libraries and algorithms, can analyze the driver's gaze direction and determine whether their attention is focused on the road ahead or diverted elsewhere or under the influence.
 
+![Screenshot 2023-06-11 215252](https://github.com/chrisjcroall/eye_yawn_detect_final_project/assets/126267745/d7535252-c6ab-4303-839a-5c99dcd76d51)
+
 
 This project is an implementation of a fatigue detection system using computer vision techniques. It detects drowsiness and yawning in a person's face using a webcam or a video file as input.
 
