@@ -19,4 +19,8 @@ The main part of the code reads video frames from a webcam or video file, conver
 
 The code continues this process until the user exits by pressing 'q'. Finally, it releases the video capture and closes the windows.
 
+
+https://github.com/chrisjcroall/eye_yawn_detect_final_project/assets/126267745/90cd4772-4e91-4784-9ea6-15ba89588c05
+
+
 In conclusion, this code demonstrates a basic implementation of a fatigue detection system using computer vision techniques.
